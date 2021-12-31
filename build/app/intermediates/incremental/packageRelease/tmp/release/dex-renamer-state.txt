@@ -1,0 +1,4 @@
+#Fri Dec 31 18:25:33 IST 2021
+base.0=/home/shekhar316/Documents/world_time/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
